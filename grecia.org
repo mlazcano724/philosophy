@@ -1,0 +1,14 @@
+teclado inglés: M-! setxkbmap us
+teclado español: M-! setxkbmap es
+* La filosofía presocrática
+** Tales
+** Anaximandro
+** Anaxímenes
+** Pitágoras
+** Heráclito
+** Parmenides
+** Zenón
+** Empédocles
+** Anaxágoras
+** Atomistas
+* El periodo socrático
