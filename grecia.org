@@ -2,7 +2,12 @@ teclado inglés: M-! setxkbmap us
 teclado español: M-! setxkbmap es
 * La filosofía presocrática
 ** Tales
+- Fue de los primeros en abandonar las explicaciones mitológicas del universo y buscar causas naturales y racionales para los fenómenos. Con esto, dio paso al pensamiento filosófico y científico.
+- Sostenía que el agua es el principio (arjé) de todo lo que existe.Escogio el agua por su rol esencial en la Vida y su potencial de cambiar su forma (solido, liquido y gas)
+- Afirmó que la Tierra flota sobre el agua, como una especie de disco
 ** Anaximandro
+- Propuso que el origen de todo (arjé) no es un elemento físico (como el agua en Tales), sino el ápeiron, que significa “lo indefinido, ilimitado o eterno”. El ápeiron es inmortal, eterno, invisible e ilimitado. Creía que en el universo existe una especie de equilibrio natural: Cuando un elemento domina demasiado (como el fuego o el aire), comete una “injusticia”. Entonces, el universo restaura el orden: todo vuelve al ápeiron.
+
 ** Anaxímenes
 ** Pitágoras
 ** Heráclito
