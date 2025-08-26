@@ -7,7 +7,7 @@ teclado español: M-! setxkbmap es
 - Afirmó que la Tierra flota sobre el agua, como una especie de disco
 ** Anaximandro
 - Propuso que el origen de todo (arjé) no es un elemento físico (como el agua en Tales), sino el ápeiron, que significa “lo indefinido, ilimitado o eterno”. El ápeiron es inmortal, eterno, invisible e ilimitado. Creía que en el universo existe una especie de equilibrio natural: Cuando un elemento domina demasiado (como el fuego o el aire), comete una “injusticia”. Entonces, el universo restaura el orden: todo vuelve al ápeiron.
-
+- Pensaba que la Tierra flota libremente en el espacio, sostenida por el equilibrio y no por nada físico. 
 ** Anaxímenes
 ** Pitágoras
 ** Heráclito
