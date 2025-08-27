@@ -9,8 +9,19 @@ teclado español: M-! setxkbmap es
 - Propuso que el origen de todo (arjé) no es un elemento físico (como el agua en Tales), sino el ápeiron, que significa “lo indefinido, ilimitado o eterno”. El ápeiron es inmortal, eterno, invisible e ilimitado. Creía que en el universo existe una especie de equilibrio natural: Cuando un elemento domina demasiado (como el fuego o el aire), comete una “injusticia”. Entonces, el universo restaura el orden: todo vuelve al ápeiron.
 - Pensaba que la Tierra flota libremente en el espacio, sostenida por el equilibrio y no por nada físico. 
 ** Anaxímenes
+- El principio de todo (arjé) es el aire. Creía que todas las cosas del mundo surgen a partir del aire mediante un proceso de condensación y rarefacción: Cuando el aire se condensa, se vuelve más denso y se transforma en viento, nubes, agua, tierra y, finalmente, piedra. Cuando se enrarece, se convierte en fuego.
+- El alma humana es aire, y así como el aire sostiene la vida del cuerpo, también sostiene y da forma al universo. Esto implica una visión unificadora: el mismo principio que anima al ser humano, anima al cosmos.
 ** Pitágoras
+- El arjé (principio fundamental del universo) no era una sustancia material, sino el número. Todo lo que existe puede explicarse mediante proporciones y relaciones numéricas.
+- Creía que el alma es inmortal y que puede reencarnarse en diferentes cuerpos (metempsicosis o transmigración de las almas). Por eso promovía una vida pura, ética y ascética.
 ** Heráclito
+- Todo fluye ("panta rei")
+La idea central de Heráclito es que todo está en constante cambio. Nada permanece igual:
+“Nadie se baña dos veces en el mismo río.”
+Esto significa que tanto el río como la persona cambian continuamente.
+- El conflicto como motor del mundo: la lucha de contrarios (día-noche, vida-muerte, frío-calor) es lo que mantiene el equilibrio del universo. El conflicto no destruye, sino que crea armonía.
+- Consideraba al fuego como el principio fundamental (arjé), porque representa el cambio constante, la transformación continua de las cosas.
+- Introdujo el concepto de logos, una razón o ley universal que ordena el cambio y el caos aparente. Aunque todo cambia, lo hace siguiendo un orden racional.
 ** Parmenides
 ** Zenón
 ** Empédocles
