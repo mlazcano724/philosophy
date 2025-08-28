@@ -23,7 +23,12 @@ Esto significa que tanto el río como la persona cambian continuamente.
 - Consideraba al fuego como el principio fundamental (arjé), porque representa el cambio constante, la transformación continua de las cosas.
 - Introdujo el concepto de logos, una razón o ley universal que ordena el cambio y el caos aparente. Aunque todo cambia, lo hace siguiendo un orden racional.
 ** Parmenides
-** Zenón
+- Sostiene que solo el ser existe y que el no-ser es impensable e inexistente. No se puede hablar ni pensar en algo que "no es". El ser es:
+- Uno: No puede haber múltiples seres, porque eso implicaría separación, y la separación implica no-ser entre los seres.
+- Eterno: El ser no nace ni muere, porque eso implicaría venir del no-ser o ir hacia el no-ser, lo cual es imposible.
+- Inmutable: El cambio es ilusión, ya que implicaría que algo deja de ser lo que es, y eso es imposible según su lógica.
+- Todo lo que percibimos como cambio o diversidad es una ilusión de los sentidos.
+** Zenón 
 ** Empédocles
 ** Anaxágoras
 ** Atomistas
