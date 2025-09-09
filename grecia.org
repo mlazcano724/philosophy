@@ -1,6 +1,13 @@
 teclado inglés: M-! setxkbmap us
 teclado español: M-! setxkbmap es
 * La filosofía presocrática
+- Fueron los primeros pensadores en buscar una explicación racional del universo, dejando de lado los mitos.
+- Se preguntaban: ¿De qué está hecho todo? ¿Cuál es el origen del cosmos?
+- Cada filósofo propuso un arjé diferente (agua, aire, fuego, ápeiron, átomos, etc.).
+- Rechazaron las explicaciones religiosas o míticas.
+- Buscaron leyes naturales para explicar los fenómenos (cambios, movimiento, vida, muerte).
+- Intentaron explicar cómo del uno (el principio único) surge la diversidad del mundo.
+- Algunos (como Parménides) decían que el cambio es ilusión, mientras que otros (como Heráclito) afirmaban que todo cambia constantemente.
 ** Tales
 - Fue de los primeros en abandonar las explicaciones mitológicas del universo y buscar causas naturales y racionales para los fenómenos. Con esto, dio paso al pensamiento filosófico y científico.
 - Sostenía que el agua es el principio (arjé) de todo lo que existe.Escogio el agua por su rol esencial en la Vida y su potencial de cambiar su forma (solido, liquido y gas)
@@ -36,6 +43,14 @@ Esto significa que tanto el río como la persona cambian continuamente.
 - Afirmó que toda la realidad está compuesta por cuatro elementos eternos e inmutables: Fuego, Aire,Agua y Tierra. Estos elementos no se crean ni se destruyen, sino que se combinan y se separan para formar todas las cosas del mundo.
 - Para explicar el cambio y el movimiento, introduce dos fuerzas opuestas que actúan sobre los elementos: Amor (Filía): Une y mezcla los elementos; Odio (Néikos): Separa y descompone las mezclas. Estas fuerzas explican los ciclos de creación y destrucción en el universo.
 ** Anaxágoras
-
+- Sostenía que nada nace ni perece, sino que todo se mezcla y se separa.
+- Introdujo la idea de que el mundo está compuesto por infinitas partículas diminutas y cualitativamente diferentes, a las que llamó "homeomerías" (semillas).
+- Estas partículas están presentes en todo: por ejemplo, en un pedazo de carne hay hueso, sangre, pelo, etc., en proporciones mínimas.
+- "En todo hay una parte de todo": todo contiene un poco de todo lo demás.
+- A diferencia de pensadores anteriores, introdujo el concepto del Nous (νοῦς), una mente cósmica que es pura, infinita, inteligente y que pone orden al caos.
+ -El Nous no está mezclado con nada, y fue el principio que inició el movimiento y organizó el universo.
 ** Atomistas
+- Átomos: partículas indivisibles, eternas, inmutables e invisibles.
+- El universo está formado por átomos en movimiento en el vacío (espacio vacío donde los átomos se desplazan).
+- Nada se crea ni se destruye, solo se combinan y separan átomos.
 * El periodo socrático
